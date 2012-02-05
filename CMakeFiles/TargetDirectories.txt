@@ -1,0 +1,1 @@
+/home/kalyaka/pocketbook_free/antiword/CMakeFiles/antiword.dir

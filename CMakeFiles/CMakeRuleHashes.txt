@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+e3cdc69e9263d763cb8812bc0970a693 src/fontinfo.h
